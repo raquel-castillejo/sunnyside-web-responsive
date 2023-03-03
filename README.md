@@ -1,6 +1,6 @@
 # Sunnyside
 
-![Imagen del proyecto](https://github.com/raquel-castillejo/010-sunnyside/blob/main/_design/desktop-design.jpg)
+![Imagen del proyecto](https://github.com/raquel-castillejo/010-sunnyside/blob/main/COVER.png)
 
 ## Ejemplo en vivo
 
